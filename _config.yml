@@ -21,9 +21,9 @@ authors:
     web: isi web
     twitter: https://twitter.com/isi id
     description: "isi tentang kamu."
-  john:
-    name: John
-    display_name: John    
+  Postkomik:
+    name: Postkomik
+    display_name: Postkomik    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: Ahmadalwy@gmail.com
