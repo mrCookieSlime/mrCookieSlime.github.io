@@ -1,3 +1,1 @@
-User-agent: *
-Allow: /
-Sitemap: https://pejuangrupiahonlien.github.io/sitemap.xml
+Sitemap: /sitemap.xml
